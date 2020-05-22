@@ -25,7 +25,7 @@ public class Student {
 	public String getName() {//学生名字的get方法
 		return name;
 	}
-	public void setName(String name) {//学生set方法
+	public void setName(String name) {//学set方法
 		this.name = name;
 	}
 	public int getAge() {
