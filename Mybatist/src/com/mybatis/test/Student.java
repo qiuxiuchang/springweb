@@ -25,7 +25,7 @@ public class Student {
 	public String getName() {
 		return name;
 	}
-	public void setName(String name) {
+	public void setName(String name) {//学生set方法
 		this.name = name;
 	}
 	public int getAge() {
