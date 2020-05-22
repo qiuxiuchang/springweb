@@ -10,11 +10,7 @@ public class Student {
 		super();
 	
 	}
-<<<<<<< HEAD
-	public Student(int id, String name, int age) {//修改有参构造方法
-=======
-	public Student(int id, String name, int age) {//有参构造方法
->>>>>>> branch 'master' of https://github.com/qiuxiuchang/ecliposeitem.git
+	public Student(int id, String name, int age) {//我要修改有参构造方法
 		super();
 		this.id = id;
 		this.name = name;
