@@ -6,7 +6,7 @@ public class Student {
 	private String name;//学生姓名
 	private int age; //学生姓名
 	
-	public Student() {
+	public Student() {//无参构造方法
 		super();
 	
 	}
