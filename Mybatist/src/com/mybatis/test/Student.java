@@ -19,7 +19,7 @@ public class Student {
 	public int getId() {
 		return id;
 	}
-	public void setId(int id) {
+	public void setId(int id) {//学号的set方法
 		this.id = id;
 	}
 	public String getName() {
