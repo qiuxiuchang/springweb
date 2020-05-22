@@ -10,7 +10,7 @@ public class Student {
 		super();
 	
 	}
-	public Student(int id, String name, int age) {
+	public Student(int id, String name, int age) {//修改了有参构造方法
 		super();
 		this.id = id;
 		this.name = name;
