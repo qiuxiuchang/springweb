@@ -16,7 +16,7 @@ public class Student {
 		this.name = name;
 		this.age = age;
 	}
-	public int getId() {
+	public int getId() {//学号的getidfangfa
 		return id;
 	}
 	public void setId(int id) {
