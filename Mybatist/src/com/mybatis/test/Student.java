@@ -22,7 +22,7 @@ public class Student {
 	public void setId(int id) {//学号的set方法
 		this.id = id;
 	}
-	public String getName() {
+	public String getName() {//学生名字的get方法
 		return name;
 	}
 	public void setName(String name) {
