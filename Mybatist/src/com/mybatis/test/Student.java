@@ -25,11 +25,7 @@ public class Student {
 	public String getName() {//学生名字的get方法
 		return name;
 	}
-<<<<<<< HEAD
 	public void setName(String name) {//set方法了
-=======
-	public void setName(String name) {//学生set方法
->>>>>>> branch 'master' of https://github.com/qiuxiuchang/ecliposeitem.git
 		this.name = name;
 	}
 	public int getAge() {
